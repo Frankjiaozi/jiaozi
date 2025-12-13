@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//ÎÒÊÇÄã°Ö
 typedef struct {
     double ratio;
     int time;

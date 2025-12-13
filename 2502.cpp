@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//jiaozi
 
 void transfer(char str[],int len,int arr[])
 {  
